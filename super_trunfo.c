@@ -81,5 +81,5 @@ int main() {
     printf("PIB: %.2f \n", pib2);
     printf("Número de pontos turísticos: %d \n", pontos_turis2);
 
-    return 0;
+    return 0; // first code that works on .c
 }
